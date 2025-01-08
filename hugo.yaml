@@ -25,3 +25,9 @@ params:
       url: "https://github.com/teacherssamko"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/teacherssamko"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
