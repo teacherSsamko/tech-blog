@@ -1,0 +1,27 @@
+baseURL: "https://teacherssamko.github.io/my-blog/"
+languageCode: "ko-kr"
+title: "개발자이선생 AI"
+theme: "PaperMod"
+
+params:
+  defaultTheme: "auto"
+  ShowShareButtons: false
+  ShowReadingTime: true
+  showCodeCopyButtons: true
+
+  contact:
+    email: "teacher.ssamko@gmail.com"
+    github: "https://github.com/teacherssamko"
+    linkedin: "https://www.linkedin.com/in/teacherssamko"
+    twitter: "https://twitter.com/teacherssamko"
+    instagram: "https://www.instagram.com/teacherssamko"
+
+  homeInfoParams:
+    Title: "개발자이선생 기술블로그"
+    Content: "AI 관련 포스팅 모음"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/teacherssamko"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/teacherssamko"
