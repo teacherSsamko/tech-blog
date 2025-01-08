@@ -1,4 +1,4 @@
-baseURL: "https://teacherssamko.github.io/tech-blog"
+baseURL: "https://teacherssamko.github.io/tech-blog/"
 languageCode: "ko-kr"
 title: "개발자이선생 AI"
 theme: "PaperMod"
