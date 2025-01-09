@@ -1,6 +1,6 @@
 +++
 date = '2024-12-31T12:59:37+09:00'
-draft = true
+draft = false
 title = '2024 개발 회고'
 +++
 

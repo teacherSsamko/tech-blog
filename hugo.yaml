@@ -29,4 +29,5 @@ params:
 outputs:
   home:
     - HTML
+    - RSS
     - JSON
