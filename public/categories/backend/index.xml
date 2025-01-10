@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Backend on 개발자이선생 AI</title>
+    <link>http://localhost:1313/tech-blog/categories/backend/</link>
+    <description>Recent content in Backend on 개발자이선생 AI</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tech-blog/categories/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Django Admin TabularInline</title>
+      <link>http://localhost:1313/tech-blog/posts/backend/django-admin-tabularinline/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech-blog/posts/backend/django-admin-tabularinline/</guid>
+      <description>&lt;h2 id=&#34;참고&#34;&gt;참고&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.djangoproject.com/en/4.2/ref/contrib/admin/#django.contrib.admin.TabularInline&#34;&gt;Django Admin TabularInline&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
