@@ -25,9 +25,24 @@ params:
       url: "https://github.com/teacherssamko"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/teacherssamko"
+    - name: "company"
+      url: "https://familywave.biz"
+    - name: "youtube"
+      url: "https://www.youtube.com/c/schoolswat"
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
