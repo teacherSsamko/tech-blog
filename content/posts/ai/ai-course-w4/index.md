@@ -34,7 +34,7 @@ MNLI 데이터셋을 사용해서, 두 문장 간의 논리적 관계를 판단�
 - 평균 길이: 29.18
 
 
-![EDA](images/ai-course-w4-f1.png)
+![EDA](ai-course-w4-f1.png)
 
 > 학습 데이터 길이가 전반적으로 100 이하인 것을 확인할 수 있어서, 이보다 긴 데이터는 제외하고 학습시키는 방향으로 진행하기로 했다.
 
@@ -46,7 +46,7 @@ MNLI 데이터셋을 사용해서, 두 문장 간의 논리적 관계를 판단�
 - 최대 길이: 216
 - 평균 길이: 29.18
 
-![Preprocessed Data](images/ai-course-w4-f2.png)
+![Preprocessed Data](ai-course-w4-f2.png)
 
 학습데이터는 128 미만의 데이터만 필터링하고, 검증 데이터는 그대로 사용.
 
